@@ -1,6 +1,6 @@
 //
-//  add_subtract_calcApp.swift
-//  add_subtract_calc
+//  swift_calculatorApp.swift
+//  swift_calculator
 //
 //  Created by Braulio Viveros on 5/12/24.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct add_subtract_calcApp: App {
+struct swift_calculatorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

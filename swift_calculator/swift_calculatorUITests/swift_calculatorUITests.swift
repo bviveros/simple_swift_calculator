@@ -1,13 +1,13 @@
 //
-//  add_subtract_calcUITests.swift
-//  add_subtract_calcUITests
+//  swift_calculatorUITests.swift
+//  swift_calculatorUITests
 //
 //  Created by Braulio Viveros on 5/12/24.
 //
 
 import XCTest
 
-final class add_subtract_calcUITests: XCTestCase {
+final class swift_calculatorUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

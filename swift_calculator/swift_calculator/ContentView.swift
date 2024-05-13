@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  add_subtract_calc
+//  swift_calculator
 //
 //  Created by Braulio Viveros on 5/12/24.
 //

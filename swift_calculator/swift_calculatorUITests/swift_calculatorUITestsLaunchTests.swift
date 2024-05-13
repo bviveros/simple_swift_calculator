@@ -1,13 +1,13 @@
 //
-//  add_subtract_calcUITestsLaunchTests.swift
-//  add_subtract_calcUITests
+//  swift_calculatorUITestsLaunchTests.swift
+//  swift_calculatorUITests
 //
 //  Created by Braulio Viveros on 5/12/24.
 //
 
 import XCTest
 
-final class add_subtract_calcUITestsLaunchTests: XCTestCase {
+final class swift_calculatorUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
